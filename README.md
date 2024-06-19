@@ -18,7 +18,8 @@
 **msfalumna/msfalumna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I am a Preceptor; School secretary; Businessman; My name is Maria Soledad Fernandez.
+Next year I will also be a Future University Technician in Programming at the UTN (San Rafael Mza).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
